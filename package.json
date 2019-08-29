@@ -1,0 +1,24 @@
+{
+  "name": "sass-starter-kit",
+  "version": "1.0.0",
+  "description": "sass starter kit",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wailmadrane/sass-starter-kit.git"
+  },
+  "author": "wailmadrane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wailmadrane/sass-starter-kit/issues"
+  },
+  "homepage": "https://github.com/wailmadrane/sass-starter-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
