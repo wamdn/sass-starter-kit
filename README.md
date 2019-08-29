@@ -9,30 +9,30 @@ To run it you need to have **node** and **npm** installed [How to Install Latest
 
 First install all the dependencies :
 
-``
+```
 
 npm i
 
-``
+```
 
 To run gulp (default task) :
 
-``
+```
 
 gulp
 
-``
+```
 
 To clear your **dist** folder :
 
-``
+```
 
 gulp clear
 
-``
+```
 
-***
+___
 
-[!Big Gulp](https://gph.is/1HlLtSn)
+[!Big Gulp](https://media.giphy.com/media/YTP1bzTfdYY36/giphy.gif)
 
 Tuturu
