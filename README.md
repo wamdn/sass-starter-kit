@@ -31,8 +31,7 @@ gulp clear
 
 ```
 
-___
 
 ![Big Gulp](https://media.giphy.com/media/YTP1bzTfdYY36/source.gif)
 
-Tuturu
+Tuturu :)
