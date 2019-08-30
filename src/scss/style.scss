@@ -1,12 +1,18 @@
 @charset 'UTF-8';
 
 // Helpers
+@import 'helpers/normalize';
 
 // Base
+@import 'base/fonts';
+@import 'base/variables';
 
 // Components
+@import 'components/wrapper';
 
 // Layout
 @import 'layout/global';
-@import 'layout/header';
+@import 'layout/navigation';
+@import 'layout/hero';
+@import 'layout/main';
 @import 'layout/footer';
